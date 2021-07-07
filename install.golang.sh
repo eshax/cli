@@ -4,7 +4,7 @@ apt udpate
 apt list --upgradable
 apt upgrade -y
 
-apt install cmake -y
+apt install cmake wget -y
 
 ver=1.16.5
 
