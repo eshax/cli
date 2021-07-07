@@ -2,7 +2,7 @@
 
 apt udpate
 apt list --upgradable
-apt upgrade
+apt upgrade -y
 
 apt install cmake -y
 
