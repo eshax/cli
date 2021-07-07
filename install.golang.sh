@@ -1,5 +1,11 @@
 #!/bin/bash
 
+apt udpate
+apt list --upgradable
+apt upgrade
+
+apt install cmake -y
+
 ver=1.16.5
 
 cd ~
