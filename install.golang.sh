@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt udpate
+apt update
 apt list --upgradable
 apt upgrade -y
 
