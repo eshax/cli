@@ -31,6 +31,7 @@ read -p 'Please set the local mapping path (Default: demo): ' servicename
 if [ -z $servicename ]; then
   servicename="demo"
 fi
+echo
 
 #
 # set local path
